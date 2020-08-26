@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"my_posts"
+			],
+			[
+				"pos",
+				"post_title"
+			],
+			[
+				"my",
+				"my_posts"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"b",
+				"b2020aposts"
+			],
+			[
+				"p",
+				"post"
+			],
+			[
+				"db",
+				"db_client"
+			],
+			[
+				"po",
+				"post_title"
+			],
+			[
+				"re",
+				"requests"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/Prueba/TweetsCuchDB/db.json",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/Prueba/TweetsCuchDB/tweets_NY.py",
+		"/D/Descargas/cine.py",
+		"/D/Descargas/sentiment (1).py",
+		"/D/Descargas/sentiment.py",
+		"/D/Descargas/elasticsearch-7.9.0-windows-x86_64/elasticsearch-7.9.0/config/elasticsearch.yml",
+		"/D/Descargas/harvesting_tweets_mongodb.py",
+		"/D/Descargas/generador.py",
+		"/D/Descargas/5000datos.txt",
+		"/D/Descargas/100datos.txt",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/Prueba/TweetsCuchDB/BDD2.json",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/CouchDB/tweetsGuayaquil.py",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/Prueba/WebScraping/WebScraping.py",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/CouchDB/tweetsQuito.py",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/CouchDB/tweetsManabi.py",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/TikTok/tiktok.py",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/CouchDB/tweets_quito.py",
+		"/D/OneDrive - Escuela Politécnica Nacional/UNIVERSIDAD/5to/Base de Datos Multidimensionales/TikTok/tiktok",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/ionic/Curriculum/src/app/tabs/tabs.page.html",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/ionic/Curriculum/src/app/tab3/tab3.page.html",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/ionic/Curriculum/src/app/tab2/tab2.page.html",
+		"/D/Descargas/tweets.py",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/ionic/Curriculum/src/app/app.module.ts",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/ionic/Curriculum/src/app/tab1/tab1.page.html",
+		"/D/Descargas/libros.json",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/ionic/MiApp/src/index.html",
+		"/D/Descargas/b2020a.py",
+		"/D/Descargas/bs_telegrafo.py",
+		"/D/Andrea/Univerisidad/5to/Bases de Datos Multidimensionales/webscrapping/bs2.py",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/Node/webServer/servidor.js",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/Node/http.js",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/Node/server.js",
+		"/D/Descargas/ws1.py",
+		"/D/Andrea/Univerisidad/6to/Tópicos Especiales/ionic/MiApp/src/app/tab1/tab1.page.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
