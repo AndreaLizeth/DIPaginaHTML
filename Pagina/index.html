@@ -10,6 +10,40 @@
     <link rel="stylesheet" href="styles.css">
     <title>Introducción a HTML</title>
   </head>
+
+
+  <style>
+  .marcoFoto {
+      overflow: hidden; /esta propiedad evita que la imagen ocupe mas espacio que su contenedor/
+      width:33%;
+    
+      box-sizing:border-box;
+      float:left;
+  }
+   
+  .marcoFoto img {
+      transition: all .4s ease;
+      width:100%;
+  }
+   
+  .marcoFoto img:hover {
+      transform:scale(1.5) rotate(20deg); /cuando nos posicionamos sobre la imagen con esta propiedad aumentamos su escala y ademas la giramos/
+      opacity:0.6;
+  }
+  .contenedor{
+      margin:100px auto; 
+      max-width:960px;
+      width:100%;
+  }
+   
+  </style>
+
+
+
+
+
+
+
   <body class="cuerpo">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       
@@ -21,7 +55,8 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Andrea Quishpe<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="#">Andrea Quishpe & Jessica Amoguimba<span class="sr-only">(current)</span></a>
+
           </li>
         </ul>
       </div>
@@ -62,9 +97,126 @@
         </div>
       </div>
 
-      <div>
-        <iframe class="video" src="https://www.youtube.com/embed/M4wmJVvlzeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+      <div class="embed-responsive embed-responsive-16by9 mb-4">
+        <iframe class="video" src="https://www.youtube.com/embed/M4wmJVvlzeY" height="900px" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
       </div>
+
+  
+
+
+      <!-- Footer -->
+      <footer class="page-footer font-small mdb-color lighten-3 pt-4">
+
+        <!-- Footer Elements -->
+        <div class="container">
+
+          <!--Grid row-->
+          <div class="row">
+
+            <!--Grid column-->
+            <div class="col-lg-2 col-md-12 mb-4">
+
+              <!--Image-->
+              <div class="view overlay z-depth-1-half marcoFoto">
+                <img src="images/1.jpeg" class="img-fluid foot"
+                  alt="">
+                <a href="">
+                  <div class="mask rgba-white-light"></div>
+                </a>
+              </div>
+
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-lg-2 col-md-6 mb-4">
+
+              <!--Image-->
+              <div class="view overlay z-depth-1-half marcoFoto">
+                <img src="images/2.jpeg" class="img-fluid foot"
+                  alt="">
+                <a href="">
+                  <div class="mask rgba-white-light"></div>
+                </a>
+              </div>
+
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-lg-2 col-md-6 mb-4">
+
+              <!--Image-->
+              <div class="view overlay z-depth-1-half marcoFoto">
+                <img src="images/3.jpeg" class="img-fluid foot"
+                  alt="">
+                <a href="">
+                  <div class="mask rgba-white-light"></div>
+                </a>
+              </div>
+
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-lg-2 col-md-12 mb-4">
+
+              <!--Image-->
+              <div class="view overlay z-depth-1-half marcoFoto">
+                <img src="images/4.jpeg" class="img-fluid foot"
+                  alt="">
+                <a href="">
+                  <div class="mask rgba-white-light"></div>
+                </a>
+              </div>
+
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-lg-2 col-md-6 mb-4">
+
+              <!--Image-->
+              <div class="view overlay z-depth-1-half marcoFoto"> 
+                <img src="images/5.jpeg" class="img-fluid foot"
+                  alt="">
+                <a href="">
+                  <div class="mask rgba-white-light"></div>
+                </a>
+              </div>
+
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-lg-2 col-md-6 mb-4">
+
+              <!--Image-->
+              <div class="view overlay z-depth-1-half marcoFoto">
+                <img src="images/6.jpeg" class="img-fluid foot"
+                  alt="">
+                <a href="">
+                  <div class="mask rgba-white-light"></div>
+                </a>
+              </div>
+
+            </div>
+            <!--Grid column-->
+
+          </div>
+          <!--Grid row-->
+
+        </div>
+        <!-- Footer Elements -->
+
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">© 2020 Copyright:
+          <a > Diseño de Interfaces</a>
+        </div>
+        <!-- Copyright -->
+
+      </footer>
+      <!-- Footer -->
 
     </div>
 
